@@ -1,0 +1,13 @@
+$font-stack : Helvetica, sans-serif;
+$backgroud : #fff;
+
+body {
+  background : $backgroud;
+  font       : $font-stack;
+}
+
+.nav-container {
+  height        : 50px;
+  margin-bottom : 100px;
+  margin-left: 34px;
+}
